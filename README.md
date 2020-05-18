@@ -9,4 +9,4 @@ dependencies 依赖安装"@angular-builders/custom-webpack": "^8",
 
 # 第二步
 
-![image](https://github.com/huyuhong0728/qiankun_angular/webpack1.jpg)
+![image](https://github.com/huyuhong0728/qiankun_angular/blob/master/webpack1.png)
